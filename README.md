@@ -158,7 +158,9 @@ IEPL/IPLC专线</br>
 
 最新地址：
 
-[宝可梦官网](https://love2.p6m6.com/#/register?code=5CGeW0Id)
+[宝可梦官网](https://love3.p6m6.com/#/register?code=5CGeW0Id)
+
+[宝可梦备用地址1](https://web1.52pokemon.cc/register?code=5CGeW0Id)
 
 > 全系标配 IEPL、IPLC 专线，不经过公网防火墙，部分套餐限速 500Mbps，确保了晚高峰时段的低延迟与高速率。支持 ChatGPT、流媒体解锁，新疆可用。
 >
@@ -201,7 +203,7 @@ IEPL/IPLC专线</br>
 | ---- | ------ | ------- | ------- | ------- |
 | 价格 | ￥8.8  | ￥19.9  | ￥29.9  | ￥59.9  |
 
-[点击访问宝可梦](https://love2.p6m6.com/#/register?code=D7GNqF9a)
+[点击访问宝可梦](https://love3.p6m6.com/#/register?code=D7GNqF9a)
 
 
 ## 五、ofoNET
