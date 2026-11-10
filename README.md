@@ -264,9 +264,9 @@ IEPL/IPLC专线</br>
 
 最新地址:
 
-[夜煞云官网](https://mm.goyesha.com/#/register?code=cJwt6H9d)
+[夜煞云官网](https://mm.yesha.icu/#/register?code=cJwt6H9d)
 
-[夜煞云官网备用地址](https://dc.yesha.pro/#/register?code=cJwt6H9d)
+[夜煞云官网备用地址](https://ac.yesha.icu/#/register?code=cJwt6H9d)
 
 > 夜煞云机场是一家 2022 年开业的老牌机场，依托于老牌专业团队低调运营至今，支持 Shadowsocks 和 Trojan 多协议，多运营商入口，线路有公网隧道中转和 IPLC 专线，带宽冗余充足。Premium 节点为专线节点。
 >
@@ -324,7 +324,7 @@ IEPL/IPLC专线</br>
 | ------- | ------- |
 | ￥58/年 | 50GB/月 |
 
-[点击访问夜煞云](https://mm.goyesha.com/#/register?code=cJwt6H9d)
+[点击访问夜煞云](https://mm.yesha.icu/#/register?code=cJwt6H9d)
 
 ## 七、flybit
 
