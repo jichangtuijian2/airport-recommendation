@@ -1,6 +1,6 @@
 # 2026机场推荐|稳定|高速|按量计费|高性价比|专线|通用订阅
 
-> 最后更新于2026.11.14
+> 最后更新于2026.11.22
 
 ## 前言
 
@@ -42,6 +42,9 @@ IEPL/IPLC专线</br>
 最新地址:
 
 [COCODUCK官网](https://www.cocoduck.site/auth/register?code=aebefd7db5)
+
+[COCODUCK官网备用地址](https://home.cocoduck.co/auth/register?code=aebefd7db5)
+
 
 > COCODUCK—2024年成立，由北美技术团队运营的高品质翻墙机场，拥有两年稳定运营历史、自有四个机房、40+全球节点，支持OpenAI和流媒体解锁，是比较值得信赖的稳定机场之一。
 
@@ -121,15 +124,15 @@ IEPL/IPLC专线</br>
 
 最新地址：
 
-[宝可梦官网](https://love3.p6m6.com/#/register?code=5CGeW0Id)
+[宝可梦官网](https://web1.52pokemon.cc/#/register?code=5CGeW0Id)
 
-[宝可梦备用地址1](https://web1.52pokemon.cc/register?code=5CGeW0Id)
+[宝可梦备用地址1](https://love.52pokemon99.cc/register?code=5CGeW0Id)
 
 > 全系标配 IEPL、IPLC 专线，不经过公网防火墙，部分套餐限速 500Mbps，确保了晚高峰时段的低延迟与高速率。支持 ChatGPT、流媒体解锁，新疆可用。
 >
 > 成立时间：2024 年
 >
-> tg群人数5w+
+> tg群人数6w+
 
 :rocket:IEPL、IPLC专线线路
 
@@ -160,22 +163,23 @@ IEPL/IPLC专线</br>
 >
 > 加入tg群组可免费获得8.8元套餐白嫖码
 >
-> 十月白嫖码：**咕咕**
+> 十一月白嫖码：**咕咕**
 
 | 套餐 | 60G/月 | 180G/月 | 300G/月 | 666G/月 |
 | ---- | ------ | ------- | ------- | ------- |
 | 价格 | ￥8.8  | ￥19.9  | ￥29.9  | ￥59.9  |
 
-[点击访问宝可梦](https://love3.p6m6.com/#/register?code=D7GNqF9a)
+[点击访问宝可梦](https://web1.52pokemon.cc/#/register?code=5CGeW0Id)
 
 
 ## 四、龙猫云
 
 最新地址：
 
-[龙猫云官网](https://web01.totorocloud.net/register?aff=WfWp6djT)
+[龙猫云官网](https://w01.lmspeed.co/register?aff=nzlhpPpj)
 
-[龙猫云备用地址](https://w01.lmspeed.co/register?aff=nzlhpPpj)
+[龙猫云备用地址](https://web01.totorocloud.net/register?aff=WfWp6djT)
+
 
 > **龙猫云(TotoroCloud)**，一家全部IPLC 专线节点机场，对 **Netflix、Disney+ 流媒体和 ChatGPT** 提供很好的解锁支持。龙猫云机场官方提供了详细的视频、文档以及贴心的客服支持
 >
@@ -204,8 +208,7 @@ IEPL/IPLC专线</br>
 | ---- | ------- | ------- | ------- | -------- |
 | 价格 | ￥15    | ￥30    | ￥60    | ￥120    |
 
-[点击访问龙猫云](https://web01.totorocloud.net/register?aff=WfWp6djT)
-
+[点击访问龙猫云](https://w01.lmspeed.co/register?aff=nzlhpPpj)
 
 ## 五、ofoNET
 
@@ -264,9 +267,9 @@ IEPL/IPLC专线</br>
 
 最新地址:
 
-[夜煞云官网](https://mm.yesha.icu/#/register?code=cJwt6H9d)
+[夜煞云官网](https://1.yeshayun.com/#/register?code=cJwt6H9d)
 
-[夜煞云官网备用地址](https://ac.yesha.icu/#/register?code=cJwt6H9d)
+[夜煞云官网备用地址](https://mm.goyesha.com/#/register?code=cJwt6H9d)
 
 > 夜煞云机场是一家 2022 年开业的老牌机场，依托于老牌专业团队低调运营至今，支持 Shadowsocks 和 Trojan 多协议，多运营商入口，线路有公网隧道中转和 IPLC 专线，带宽冗余充足。Premium 节点为专线节点。
 >
@@ -292,19 +295,6 @@ IEPL/IPLC专线</br>
 > 优惠码
 > **nightfury** (Medium及其以上可用)
 
->
->    双十一限时（不限时套餐不参与优惠 )
->
-> - 八五折优惠码：20261111
->
-> -  活动日期：2026.11.11  00:00 — 2026.11.12 00:00。
->
-> -  商店页面输入优惠码（  20261111   ）即可享受优惠！
->
->
->
->
-
 - **按量付费**（不限时，用完再续）
 
 | 套餐    | 400G    |
@@ -324,7 +314,7 @@ IEPL/IPLC专线</br>
 | ------- | ------- |
 | ￥58/年 | 50GB/月 |
 
-[点击访问夜煞云](https://mm.yesha.icu/#/register?code=cJwt6H9d)
+[点击访问夜煞云](https://1.yeshayun.com/#/register?code=cJwt6H9d)
 
 ## 七、flybit
 
@@ -421,7 +411,6 @@ IEPL/IPLC专线</br>
 [点击访问SsdAirport](https://ssdayoo.com?path=register&code=zotQe5d5)
 
 
-
 ## 九、八戒机场
 
 最新地址：
@@ -430,7 +419,7 @@ IEPL/IPLC专线</br>
 
 [八戒官网备用地址](https://bajie.ooo/?aff=A6pAEaJq)
 
-> 说八戒机场可能不知道，但是提[魔戒机场]((https://mojie.co/register?aff=1VlZXWVA))，估计知道的人就很多了。魔戒是按流量计费的机场，看TG群里的用户数就已经超过2w了，实际用户只会更多。而八戒机场呢，可以说是魔戒机场的升级版。八戒机场不光是有魔戒的流量包，也推出了月付套餐，而且线路全部升级为IPLC/IEPL专线，在速度和稳定性上相较魔戒还是要高一些的。
+> 说八戒机场可能不知道，但是提[魔戒机场](https://74.82.196.10:8000/register?aff=1VlZXWVA)，估计知道的人就很多了。魔戒是按流量计费的机场，看TG群里的用户数就已经超过2w了，实际用户只会更多。而八戒机场呢，可以说是魔戒机场的升级版。八戒机场不光是有魔戒的流量包，也推出了月付套餐，而且线路全部升级为IPLC/IEPL专线，在速度和稳定性上相较魔戒还是要高一些的。
 
 :rocket:全IEPL专线机场，含日本家宽。
 
@@ -445,19 +434,6 @@ IEPL/IPLC专线</br>
 
 **八戒机场套餐**
 
->
-> 双十一活动开启
->
-> 不限时套餐 9折
->
-> 优惠码  261111a
->
-> 月付套餐 8 折
->
-> 优惠码 261111
->
-> 结束时间  2026/11/18 23:59
->
 
 - 按量付费（不限时，用完再续）
 
